@@ -59,5 +59,7 @@ terms of use, available online in the following link:
 The terms described in the above link have precedence over the terms described
 in the present document. In case of disagreement, the Freepik Terms of Use
 will prevail.
-
 ```
+* https://www.freepik.com/free-photo/high-angle-books-coffee-cup_33754179.htm#fromView=search&page=1&position=0&uuid=ce4760cd-22ee-44e6-adbc-7cde29244e47&query=book+image
+* https://www.freepik.com/free-photo/wooden-table-with-three-books-top-each-other-daytime_9852951.htm#fromView=search&page=1&position=10&uuid=ce4760cd-22ee-44e6-adbc-7cde29244e47&query=book+image
+* [https://www.freepik.com/free-photo/opened-book-windy-day_1457747.htm#fromView=search&page=2&position=35&uuid=ce4760cd-22ee-44e6-adbc-7cde29244e47&query=book+image](https://www.freepik.com/free-photo/opened-book-windy-day_1457747.htm#fromView=search&page=2&position=35&uuid=ce4760cd-22ee-44e6-adbc-7cde29244e47&query=book+image)
