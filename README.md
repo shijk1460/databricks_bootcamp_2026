@@ -1,9 +1,7 @@
 ## Usage
 ### SQL Server
 ```
-RESTORE DATABASE MyCollection
-FROM DISK = '{path}'
---WITH REPLACE
+
 ```
 > [!TIP]
 > *Remove -- when necessary
